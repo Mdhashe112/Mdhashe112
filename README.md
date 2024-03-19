@@ -1,5 +1,5 @@
  this tool for termux banner setup
-git clone https://github.com/Bhai4You/Termux-Banner
+git clone https://github.com/mdhashe112/Termux-Banner
 
 
 cd Termux-Banner
